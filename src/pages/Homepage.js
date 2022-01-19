@@ -170,6 +170,9 @@ const Homepage = () => {
             displayBList={displayBList}
           />
         </div>
+        <h2 className="second-text second-mcap">
+          www.withmarketcap.com
+        </h2>
       </div>
       <Footer
         className="footi"

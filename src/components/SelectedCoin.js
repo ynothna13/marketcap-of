@@ -60,11 +60,6 @@ const SelectedCoin = ({ selectACoin, selectBCoin }) => {
               alt="crypto a"
             />{" "}
           </div>
-          <div>
-            <h2 className="second-text second-mcap">
-              www.withmarketcap.com
-            </h2>
-          </div>
         </div>
       ) : (
         ""
