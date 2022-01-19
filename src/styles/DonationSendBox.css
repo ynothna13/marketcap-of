@@ -36,7 +36,7 @@
   padding: 0.5rem;
   padding-right: 0;
   background-color: transparent;
-  color: #8877e3;
+  color: #fffc00;
   font-size: 0.75rem;
   font-weight: lighter;
   overflow-x: scroll;
@@ -51,7 +51,7 @@
   background: #2e283d;
 }
 ::-webkit-scrollbar-thumb {
-  background: #7717f3;
+  background: #fffc00;
 }
 .fa-clone {
   grid-area: "logo";

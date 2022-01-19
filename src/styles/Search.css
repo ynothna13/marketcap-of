@@ -37,7 +37,7 @@
   height: 50px;
   border-radius: 6px;
   border: none;
-  background-image: linear-gradient(-225deg, #fffc00 0%, #b1a80b 48%, #6f6a0b 100%);
+  background-image: linear-gradient(-225deg, #6f6a0b 0%, #b1a80b 48%, #fffc00 100%);
   color: black;
   font-size: 1rem;
   outline: none;
