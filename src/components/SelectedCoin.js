@@ -14,8 +14,8 @@ const SelectedCoin = ({ selectACoin, selectBCoin }) => {
   return (
     <div
       className="selectedCoin-container-parent"
-      // //change opacity when display is true
-      // style={displayAList || displayBList ? { opacity: 0.25 } : { opacity: 1 }}
+    // //change opacity when display is true
+    // style={displayAList || displayBList ? { opacity: 0.25 } : { opacity: 1 }}
     >
       {/* Only write out when there is a valid coin in both a and b */}
       {Object.keys(a).length && Object.keys(b).length ? (
@@ -59,6 +59,10 @@ const SelectedCoin = ({ selectACoin, selectBCoin }) => {
               src={b.image}
               alt="crypto a"
             />{" "}
+
+            <div>
+              www.withmarketcap.com
+            </div>
           </div>
         </div>
       ) : (
