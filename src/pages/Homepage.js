@@ -170,7 +170,7 @@ const Homepage = () => {
             displayBList={displayBList}
           />
         </div>
-        <h2 className="selectedCoin-div second-text second-mcap">
+        <h2 className="title second-text second-mcap">
           www.withmarketcap.com
         </h2>
       </div>
