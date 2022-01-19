@@ -26,7 +26,7 @@
 }
 
 .donation-list::-webkit-scrollbar-thumb {
-  background: #77699e;
+  background: #6f6a0b;
 }
 
 .coins-container::-webkit-scrollbar {
@@ -36,7 +36,7 @@
   background: rgb(51, 53, 85);
 }
 ::-webkit-scrollbar-thumb {
-  background: #7717f3;
+  background: #fffc00;
 }
 p {
   text-align: center;
