@@ -170,7 +170,7 @@ const Homepage = () => {
             displayBList={displayBList}
           />
         </div>
-        <h2 className="second-text second-mcap">
+        <h2 className="search-list-container">
           www.withmarketcap.com
         </h2>
       </div>
