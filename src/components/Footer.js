@@ -78,16 +78,11 @@ const Footer = ({
                 </button>
               </Link>
             </li>
-            {/* <li>
-            <a href="https://www.linkedin.com" target="_blank">
-              <FontAwesomeIcon className="fa linkedin" icon={faLinkedin} />
-            </a>
-          </li> */}
           </ul>
         </div>
         <div className="text-row">
           <p className="copyright-text">
-            &copy; {new Date().getFullYear()} MarketCapOf. All Rights Reserved.
+            &copy; {new Date().getFullYear()} With Market Cap. All Rights Reserved.
           </p>
         </div>
       </footer>
