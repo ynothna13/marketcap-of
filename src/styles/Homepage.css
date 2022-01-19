@@ -19,6 +19,11 @@
   margin: 0 2rem 0 2rem;
 }
 
+.link-container {
+  padding: 10px;
+  margin: auto;
+}
+
 .title {
   width: 100%;
 }
