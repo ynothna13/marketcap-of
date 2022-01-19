@@ -59,10 +59,9 @@ const SelectedCoin = ({ selectACoin, selectBCoin }) => {
               src={b.image}
               alt="crypto a"
             />{" "}
-
-            <div>
-              www.withmarketcap.com
-            </div>
+          </div>
+          <div className="text-div">
+            www.withmarketcap.com
           </div>
         </div>
       ) : (
